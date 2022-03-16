@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieAdda/static/css/main.58e1373c.css",
+    "main.js": "/MovieAdda/static/js/main.d762320a.js",
+    "index.html": "/MovieAdda/index.html",
+    "static/media/search.svg": "/MovieAdda/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "/MovieAdda/static/css/main.58e1373c.css.map",
+    "main.d762320a.js.map": "/MovieAdda/static/js/main.d762320a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.d762320a.js"
+  ]
+}
